@@ -1,0 +1,1 @@
+export const examValue: number = 90;
