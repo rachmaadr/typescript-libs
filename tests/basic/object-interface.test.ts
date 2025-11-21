@@ -1,4 +1,4 @@
-import { StringDictionary } from "../src/object-interface";
+import { StringDictionary } from "../../src/basic/object-interface";
 
 it("Should return object from StringDictionary", () => {
   const dictionary: StringDictionary = {

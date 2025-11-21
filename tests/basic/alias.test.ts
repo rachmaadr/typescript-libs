@@ -1,4 +1,4 @@
-import { Category, Product } from "./../src/alias";
+import { Category, Product } from "../../src/basic/alias";
 
 describe("Alias Test", () => {
   it("Should return object from Product & Category", function (): void {

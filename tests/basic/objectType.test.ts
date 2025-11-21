@@ -1,4 +1,4 @@
-import {person} from "../src/objectType"
+import { person } from "../../src/basic/objectType";
 
 it("Should return object from person", () => {
   const {id,name} = person

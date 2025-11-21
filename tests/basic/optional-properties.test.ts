@@ -1,4 +1,4 @@
-import { Category, Product } from "../src/optional-properties";
+import { Category, Product } from "../../src/basic/optional-properties";
 
 it("Should return object from category and product", () => {
   const categories: Category = {

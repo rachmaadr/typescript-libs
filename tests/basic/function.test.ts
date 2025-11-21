@@ -1,4 +1,4 @@
-import { sayHello, printName } from "../src/function";
+import { sayHello, printName } from "../../src/basic/function";
 
 describe("Function Test", () => {
   it("should return hello jhon doe with default value string", () => {

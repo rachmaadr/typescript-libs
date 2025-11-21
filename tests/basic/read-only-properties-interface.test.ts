@@ -1,4 +1,4 @@
-import { Users, UserCategory } from "./../src/read-only-properties";
+import { Users, UserCategory } from "../../src/basic/read-only-properties";
 
 it("Should return object from users with read only properties", () => {
   const user: Users = {

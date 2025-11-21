@@ -1,4 +1,4 @@
-import { person } from "../src/dataAny";
+import { person } from "../../src/basic/dataAny";
 
 it("should return object from var person", function (): void {
   expect(person).toEqual({

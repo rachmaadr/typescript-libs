@@ -1,4 +1,4 @@
-import { Person } from "./../src/interface-function";
+import { Person } from "../../src/basic/interface-function";
 
 it("Should return object from Person", () => {
   const person: Person = {

@@ -1,4 +1,4 @@
-import data from "../src/dataPrimitif";
+import data from "../../src/basic/dataPrimitif";
 
 describe("data primitif", () => {
   it("should return name as jhon doe", function (): void {

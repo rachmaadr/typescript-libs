@@ -1,4 +1,4 @@
-import { Category, Product } from "../src/type-alias-for-union-type";
+import { Category, Product } from "../../src/basic/type-alias-for-union-type";
 
 it("Should return object from Product and Category", function (): void {
   const categories: Category = {

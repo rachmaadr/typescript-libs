@@ -1,4 +1,4 @@
-import { addFunction } from "../src/function-interface";
+import { addFunction } from "../../src/basic/function-interface";
 
 describe("Function Interface Test", () => {
   it("should return number from addFunction with addition operator", () => {

@@ -1,4 +1,4 @@
-import { stringArray } from "./../src/interface-array";
+import { stringArray } from "../../src/basic/interface-array";
 
 it("Should return array from stringArray", () => {
   const name: stringArray = ["jhon doe", "alice", "lorem ipsum"];

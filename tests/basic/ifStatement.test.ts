@@ -1,4 +1,4 @@
-import { examValue } from "./../src/ifStatement";
+import { examValue } from "../../src/basic/ifStatement";
 
 it("Should return value from variable examvalue with if statement", () => {
   function getExamResult(examValue: any): string {

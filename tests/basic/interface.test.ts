@@ -1,4 +1,4 @@
-import { Seller } from './../src/interface';
+import { Seller } from "../../src/basic/interface";
 
 it("Should return object from Seller", () => {
   const seller: Seller = {

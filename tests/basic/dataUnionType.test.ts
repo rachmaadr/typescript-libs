@@ -1,4 +1,4 @@
-import { sample } from "./../src/dataUnionType";
+import { sample } from "../../src/basic/dataUnionType";
 
 it("should return Union type data from var sample", function (): void {
   function process(value: number | string | boolean) {

@@ -1,4 +1,4 @@
-import data from "../src/dataArray";
+import data from "../../src/basic/dataArray";
 
 describe("Data Array Test", (): void => {
   it("should return array from var name", function (): void {

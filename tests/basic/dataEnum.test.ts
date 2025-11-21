@@ -1,4 +1,4 @@
-import { Customer, categoriesType } from "./../src/dataEnum";
+import { Customer, categoriesType } from "../../src/basic/dataEnum";
 
 it("Should return data of customer", () => {
   const customer: Customer = {

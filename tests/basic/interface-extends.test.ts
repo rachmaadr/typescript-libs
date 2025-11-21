@@ -1,4 +1,4 @@
-import { Employees, Managers } from "../src/interface-extends";
+import { Employees, Managers } from "../../src/basic/interface-extends";
 
 describe("Interface Extends Test", () => {
   it("Should return object from Employee", () => {
